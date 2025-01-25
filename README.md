@@ -55,7 +55,7 @@ Contributions are welcome! Feel free to fork this repository, make improvements,
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
-For queries or collaboration, please contact [your email address].
+For queries or collaboration, please contact ishtiiyak@gmail.com.
 
 ---
 **Note:** Ensure proper safety measures are followed during hardware setup and testing, as automotive systems interact with critical components.
